@@ -1,4 +1,4 @@
-[automation_testing_lab.md](https://github.com/user-attachments/files/24118523/automation_testing_lab.md)
+
 # 🧪 Lab: Using GitHub Copilot for Automation Testing (.NET, UI & API)
 
 ## 🎯 Objective
